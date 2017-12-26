@@ -13,5 +13,5 @@ Use Below commands to control RGB Led
 5. Alexa, Turn On Green Light 
 6. Alexa, Turn Off Green Light
 
-Thnaks
+Thanks
 Niladri
